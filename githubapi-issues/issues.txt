@@ -1,0 +1,154 @@
+
+Issue Number: 10
+Issue ID: 145075225
+Issue State : open
+Issue Title: Sidhhu
+Issue Body: Hello Professor,
+
+I have completed all the tasks of Homework 2 and a detail explanation was written in journal. 
+Kindly give me your feedback. 
+Issue Created Date: Fri Apr 01 03:16:38 EDT 2016
+User: 
+	ID: 16694879
+	Login: sridivyatejayedlapalli
+Assignee: 
+	ID: 10540251
+	Login: juancvega
+
+
+
+Issue Number: 7
+Issue ID: 134330343
+Issue State : open
+Issue Title: Issue 1
+Issue Body: Alignment of code is improper.
+Issue Created Date: Wed Feb 17 16:32:21 EST 2016
+User: 
+	ID: 16694879
+	Login: sridivyatejayedlapalli
+Assignee: 
+	ID: 10540251
+	Login: juancvega
+
+
+
+Issue Number: 6
+Issue ID: 134330106
+Issue State : open
+Issue Title: Issue 2
+Issue Body: Alignment of code is improper.
+Issue Created Date: Wed Feb 17 16:31:21 EST 2016
+User: 
+	ID: 16694879
+	Login: sridivyatejayedlapalli
+Assignee: 
+	ID: 10540251
+	Login: juancvega
+
+
+
+Issue Number: 5
+Issue ID: 134324748
+Issue State : open
+Issue Title: Issue 3
+Issue Body: 
+Issue Created Date: Wed Feb 17 16:12:24 EST 2016
+User: 
+	ID: 16694879
+	Login: sridivyatejayedlapalli
+Assignee: 
+	ID: 10540251
+	Login: juancvega
+
+
+
+Issue Number: 9
+Issue ID: 143752191
+Issue State : closed
+Issue Title: Sidhhu
+Issue Body: Hello Professor,
+
+Done with all the tasks of Homework 2 as per the document .
+Kindly give me your feedback.
+Issue Created Date: Sat Mar 26 21:49:58 EDT 2016
+User: 
+	ID: 16694879
+	Login: sridivyatejayedlapalli
+Assignee: 
+	ID: 10540251
+	Login: juancvega
+
+
+
+Issue Number: 8
+Issue ID: 134330761
+Issue State : closed
+Issue Title: For 5 and multiples of 5 instead of Bar Bug is printing
+Issue Body: For 5 and multiples of 5 "Bar" should be output. 
+Issue Created Date: Wed Feb 17 16:34:08 EST 2016
+User: 
+	ID: 16694879
+	Login: sridivyatejayedlapalli
+Assignee: 
+	ID: 10540251
+	Login: juancvega
+
+
+
+Issue Number: 4
+Issue ID: 129290478
+Issue State : closed
+Issue Title: Mistakes
+Issue Body: Implemented task 2
+Issue Created Date: Wed Jan 27 22:28:39 EST 2016
+User: 
+	ID: 16694879
+	Login: sridivyatejayedlapalli
+Assignee: 
+	ID: 10540251
+	Login: juancvega
+
+
+
+Issue Number: 3
+Issue ID: 129283740
+Issue State : closed
+Issue Title: Sidhhu
+Issue Body: 
+Issue Created Date: Wed Jan 27 22:00:44 EST 2016
+User: 
+	ID: 16694879
+	Login: sridivyatejayedlapalli
+Assignee: 
+	ID: 10540251
+	Login: juancvega
+
+
+
+Issue Number: 2
+Issue ID: 129275149
+Issue State : closed
+Issue Title: Sidhhu
+Issue Body: Implemented all the changes given in task 1 
+Issue Created Date: Wed Jan 27 21:30:42 EST 2016
+User: 
+	ID: 16694879
+	Login: sridivyatejayedlapalli
+Assignee: 
+	ID: 10540251
+	Login: juancvega
+
+
+
+Issue Number: 1
+Issue ID: 129249471
+Issue State : closed
+Issue Title: Sidhhu
+Issue Body: Two modifications have been done to FooBarBaz program and changes have been committed. 
+Issue Created Date: Wed Jan 27 19:48:52 EST 2016
+User: 
+	ID: 16694879
+	Login: sridivyatejayedlapalli
+Assignee: 
+
+
